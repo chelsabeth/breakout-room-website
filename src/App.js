@@ -26,6 +26,8 @@ function App() {
         </a>
         !
       </h2>
+      <h3>AND WE MEAN NOW! </h3>
+      <h3>right now</h3>
       <p>
         <a
           href="https://github.com/zeit/now-examples/tree/master/create-react-app-functions"
